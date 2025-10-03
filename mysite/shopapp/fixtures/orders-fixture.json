@@ -1,0 +1,1 @@
+[{"model": "shopapp.order", "pk": 1, "fields": {"delivery_address": "city Krasnogorsk, ul zavodskaya, 5", "promocode": "sale123", "created_at": "2025-10-01T18:31:33.779Z", "user": 2, "products": [1]}}]
